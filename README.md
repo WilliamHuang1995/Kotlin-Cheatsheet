@@ -1,4 +1,5 @@
-#Kotlin Cheatsheet
+# Kotlin Cheatsheet
+
 This is me following Derek Banas an hour and a half long tutorial on the basics of Kotlin  
 Seems like a very sweet language that shows signs of python and java but at the same time
 also very similar to OCaml.  
